@@ -15,4 +15,4 @@ hello zdh! hello git!!
 hello zdh! hello git!!
 hello zdh! hello git!!
 hello zdh! hello git!!master test
-hello zdh! hello git!!
+hello zdh! hello git!! hot-fix text!
